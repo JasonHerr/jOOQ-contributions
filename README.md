@@ -9,7 +9,7 @@ Contributors are required to provide contributions in the following directory la
 # All contributions go into this directory structure. [contribution-name] may be
 # chosen freely, but most not infringe any third-party trademark rules. If names
 # contain "jOOQ", they will be reviewed by Data Geekery
-/contributions/[contribution-name]/[version]
+/contributions/[contribution-name]/[version]/
 
 # This directory contains all downloadable files to be published on www.jooq.org
 # For example, it can contain .jar, .zip files, etc.
